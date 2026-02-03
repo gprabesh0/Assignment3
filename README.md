@@ -65,33 +65,42 @@ The GUI is responsible for:
 
 ### Prerequisites
 Make sure Python 3 is installed.  
-Install the Pillow library if not already available:
 
+Install the Pillow library if not already available:
 ```bash
 pip install pillow
+
+---
+
 Running the App
 From the project directory, run:
 
+```bash
 python main.py
-Design Principles
-Separation of Concerns: GUI, logic, and history management are separated
 
-Object-Oriented Design: Each component has a clear responsibility
 
-Maintainability: Modular structure allows easy extension
+---
 
-User-Friendly: Simple interface with undo/redo support
+###Design Principles
 
-Possible Extensions
-Additional image filters (blur, rotate, brightness)
+##Separation of Concerns: GUI, logic, and history management are separated
 
-Save edited images
+##Object-Oriented Design: Each component has a clear responsibility
 
-Keyboard shortcuts
+##Maintainability: Modular structure allows easy extension
 
-Zoom and pan functionality
+##User-Friendly: Simple interface with undo/redo support
 
-Author
+##Possible Extensions
+#Additional image filters (blur, rotate, brightness)
+
+#Save edited images
+
+#Keyboard shortcuts
+
+#Zoom and pan functionality
+
+###Author
 Prabesh Tamang
 
 
