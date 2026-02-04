@@ -2,7 +2,7 @@
 
 A simple yet powerful desktop image editing application built with **Python**, **Tkinter**, **OpenCV (cv2)**, and **Pillow**. This project is developed as part of HIT137 Group Assignment 3, demonstrating Object-Oriented Programming principles, GUI development using Tkinter, and image processing using OpenCV.
 
-https://github.com/yourusername/hit137-image-editor.git  <!-- Update this with your actual GitHub repository link -->
+https://github.com/gprabesh0/Assignment3
 
 ## Assignment Alignment
 
