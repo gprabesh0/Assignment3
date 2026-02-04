@@ -1,8 +1,15 @@
 # Image Editor
 
-A simple yet powerful desktop image editing application built with **Python**, **Tkinter**, **OpenCV (cv2)**, and **Pillow**. This project is developed as part of HIT137 Group Assignment 3, demonstrating Object-Oriented Programming principles, GUI development using Tkinter, and image processing using OpenCV.
+A simple yet powerful desktop image editing application built with **Python**, **Tkinter**, and **OpenCV**. This project is developed as part of HIT137 Group Assignment 3, demonstrating Object-Oriented Programming principles, GUI development using Tkinter, and image processing using OpenCV.
 
 https://github.com/gprabesh0/Assignment3
+
+## Acknowledgments
+- Group members:
+- Fuad Ahmed Anonto   - S399378
+- Prabesh Tamang      - S398925
+- Pramisha Shrestha   - S399137
+- Sushil Dhungana     - S399406
 
 ## Assignment Alignment
 
@@ -67,14 +74,6 @@ This project aims for HD-level performance across all criteria:
 - **Code Quality & Structure**: Code is clean, split into multiple files, easy to read, well-documented with comments.
 - **Functions, Loops, Comments & Classes**: Functions and loops used effectively (e.g., loops for button creation, history trimming); meaningful comments throughout; clear class structure.
 
-## Screenshots
-
-*(Add screenshots here to demonstrate the GUI and features, e.g., main interface, applying filters, undo/redo. These can serve as "outputs" for submission.)*
-
-<!-- Example placeholders -->
-<!-- ![Main Interface](screenshots/main-window.png) -->
-<!-- ![Applying Blur](screenshots/blur-effect.png) -->
-<!-- ![Undo Redo](screenshots/undo-redo.png) -->
 
 ## Requirements
 
@@ -140,28 +139,3 @@ hit137-image-editor/
 └── screenshots/          # Folder for output images (e.g., before/after edits)
 ```
 
-## Submission Notes
-- **github_link.txt**: Contains the link to the public GitHub repo.
-- **Outputs**: Include screenshots of the running app in a `screenshots/` folder to demonstrate functionality.
-- Zip contents: All .py files, README.md, github_link.txt, and screenshots folder.
-
-## Current Limitations
-- Max 20 history steps for memory efficiency.
-- No zoom/pan beyond scrolling.
-- No advanced features like crop or layers (beyond requirements).
-
-## Future Improvements
-- Add crop tool.
-- Keyboard shortcuts (e.g., Ctrl+Z for undo).
-- More filters (e.g., hue/saturation).
-- Export options with quality settings.
-
-## License
-MIT License (free to modify and distribute).
-
-## Acknowledgments
-- Group members:
-- Sushil Dhungana
-- Prabesh Tamang
-- Pramisha Shrestha
-- Fuad Ahmed Anonto
