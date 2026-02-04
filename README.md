@@ -1,4 +1,4 @@
-# HIT137 Image Editor
+# Image Editor
 
 A simple yet powerful desktop image editing application built with **Python**, **Tkinter**, **OpenCV (cv2)**, and **Pillow**. This project is developed as part of HIT137 Group Assignment 3, demonstrating Object-Oriented Programming principles, GUI development using Tkinter, and image processing using OpenCV.
 
