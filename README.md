@@ -160,8 +160,8 @@ hit137-image-editor/
 MIT License (free to modify and distribute).
 
 ## Acknowledgments
-- Built for HIT137 Group Assignment 3.
-- Thanks to OpenCV, Tkinter, and Pillow maintainers.
-- Group members: [List names here, e.g., Ang and team].
-
-Happy editing! 🖼️✂️
+- Group members:
+- Sushil Dhungana
+- Prabesh Tamang
+- Pramisha Shrestha
+- Fuad Ahmed Anonto
