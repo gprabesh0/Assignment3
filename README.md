@@ -5,7 +5,7 @@ A simple yet powerful desktop image editing application built with **Python**, *
 https://github.com/gprabesh0/Assignment3
 
 ## Acknowledgments
-###Group members:
+### Group Members:
 - Fuad Ahmed Anonto   - S399378
 - Prabesh Tamang      - S398925
 - Pramisha Shrestha   - S399137
