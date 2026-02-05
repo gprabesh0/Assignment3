@@ -11,7 +11,7 @@ class ImageEditorGUI:
         self.current_file = None
         self.image_tk = None
 
-        self.root.title("HIT137 Image Editor")
+        self.root.title("Image Editor")
         self.root.geometry("900x700")
 
         # Menu Bar
