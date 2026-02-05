@@ -49,17 +49,40 @@ Flexible, user-friendly interface with:
 1.Install dependencies:
 
 ```bash
-pip install opencv-python pillow```
+pip install opencv-python pillow
+```
 
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/gprabesh0/Assignment3.git```
+git clone https://github.com/gprabesh0/Assignment3.git
+```
 
 3. Navigate to the project directory:
 
 ```bash
-cd Assignment3```
+cd Assignment3
+```
 
 ## Usage
+1. Run the application:
 
+```bash
+python main.py
+```
+
+2. Load an image via File > Open (supports JPG, PNG, BMP).
+3. Apply effects using the sidebar:
+***Toggle Grayscale or Edge Detection (click to apply/remove).***
+***Adjust sliders for Blur, Brightness, Contrast, or Scale, then click "Apply" (or "Reset" to default).***
+***Click buttons for Rotate or Flip.***
+4. Use Edit > Undo/Redo for changes.
+5. Reset via File > Reset to Original.
+6. Save via File > Save or Save As.
+
+## Project Structure
+***main.py: Entry point; initializes classes and GUI.***
+***gui.py: Tkinter GUI implementation (menus, canvas, controls).***
+***image_processor.py: OpenCV image processing logic.***
+***history_manager.py: Undo/redo history management.***
+***README.md: This documentation.***
