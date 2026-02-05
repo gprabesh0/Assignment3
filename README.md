@@ -46,9 +46,20 @@ Flexible, user-friendly interface with:
 ***Dependencies: opencv-python, numpy,tkinter (built-in)***
 
 ## Installation
-1. Clone the repository:
+1.Install dependencies:
 
 ```bash
-git clone git clone https://github.com/gprabesh0/Assignment3.git
-cd hit137-image-editor
-```
+pip install opencv-python pillow```
+
+2. Clone the repository:
+
+```bash
+git clone https://github.com/gprabesh0/Assignment3.git```
+
+3. Navigate to the project directory:
+
+```bash
+cd Assignment3```
+
+## Usage
+
