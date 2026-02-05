@@ -1,0 +1,54 @@
+# Image Editor
+
+## Overview
+This repository contains the source code for a desktop image editing application developed as part of Assignment 3. The project demonstrates a strong understanding of Object-Oriented Programming (OOP) principles, GUI development using Tkinter, and image processing using OpenCV. It allows users to load, apply various effects to, and save images in common formats (JPG, PNG, BMP).
+
+The repository is public and was created before starting the assignment.
+
+https://github.com/gprabesh0/Assignment3
+
+## Acknowledgments
+### Group Members:
+- Fuad Ahmed Anonto   - S399378
+- Prabesh Tamang      - S398925
+- Pramisha Shrestha   - S399137
+- Sushil Dhungana     - S399406
+
+## Functional Requirements Met
+
+### OOP: 
+Structured with four classes (ImageEditorGUI, ImageProcessor, HistoryManager, and orchestration in main.py), demonstrating encapsulation (private attributes), constructors, methods, and class interactions.
+
+### OpenCV Image Processing:
+All required features implemented:
+***Grayscale Conversion (toggleable)***
+***Blur Effect (Gaussian blur, adjustable intensity)***
+***Edge Detection (Canny algorithm, toggleable)***
+***Brightness Adjustment (increase/decrease)***
+***Contrast Adjustment***
+***Image Rotation (90°, 180°, 270°)***
+***Image Flip (horizontal/vertical)***
+***Resize/Scale***
+
+### Tkinter GUI: 
+Flexible, user-friendly interface with:
+***Main window (900x700, titled "Image Editor")***
+***Menu bar (File: Open, Save, Save As, Exit; Edit: Undo, Redo)***
+***Scrollable canvas for image display***
+***Control panel with toggle buttons, sliders (with Apply/Reset), and buttons for effects***
+***Status bar (filename, dimensions)***
+***File dialogs for open/save***
+***Sliders for adjustable effects (e.g., blur intensity)***
+***Message boxes for confirmations/errors***
+
+## Requirements
+***Python 3.x (tested on 3.14)***
+***Dependencies: opencv-python, numpy,tkinter (built-in)***
+
+## Installation
+1. Clone the repository:
+
+```bash
+git clone git clone https://github.com/gprabesh0/Assignment3.git
+cd hit137-image-editor
+```
